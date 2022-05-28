@@ -13,8 +13,8 @@ body {
   min-height: 100vh;
   background-color: hsl(185, 75%, 39%);
   font-family: "Kumbh Sans", sans-serif;
-  background-image: url(/images/bg-pattern-top.svg),
-    url(/images/bg-pattern-bottom.svg);
+  background-image: url(images/bg-pattern-top.svg),
+    url(images/bg-pattern-bottom.svg);
   /* background-position: left top, right bottom; */
   background-repeat: no-repeat;
   background-position: right calc(47vw + 15%) bottom calc(60vh - 15vw),
